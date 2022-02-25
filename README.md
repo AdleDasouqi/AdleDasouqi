@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋<h3> I'm Adle Dasouqi</h3>
 
-<!--
-**AdleDasouqi/AdleDasouqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="170">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑🏻‍💻 &nbsp; I'm interested in Full-Stack Developer.
+
+- 🎓 &nbsp; Studied Computer Information Systems at Yarmouk University.
+
+- 🤔 &nbsp; My specialties include learning and explore new skills, technologies and developing software solutions.
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 🖥 &nbsp; Illustrator.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
