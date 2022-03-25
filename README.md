@@ -1,9 +1,9 @@
 ### Hi there 👋<h3> I'm Adle Dasouqi</h3>
 
-<img align='right' src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="170">
+<img align='right' src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif" width="150">
 
 
-- 🧑🏻‍💻 &nbsp; I'm interested in Full-Stack Developer.
+- 🧑🏻‍💻 &nbsp; I'm interested in Software Engineer.
 
 - 🎓 &nbsp; Studied Computer Information Systems at Yarmouk University.
 
